@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ site.description }}" />
+
+
+<!-- Tailwind Play CDN for quick, modern styling -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+
+<!-- Optional: small custom styles -->
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}" />
+</head>
+<body class="bg-slate-50 text-slate-800 dark:bg-slate-900 dark:text-slate-100">
+{% include header.html %}
+
+
+<main class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+{{ content }}
+</main>
+
+
+{% include footer.html %}
+
+
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
