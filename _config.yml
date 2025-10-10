@@ -1,0 +1,24 @@
+title: "Adewole Adewale — Mobile Developer"
+description: "Xamarin, .NET, MAUI developer building mobile and web apps from Lagos, Nigeria."
+baseurl: "" # change if hosted in a subpath
+url: "https://adewoleadewale.github.io" # change to your GitHub Pages URL
+theme: minima
+markdown: kramdown
+permalink: /:title/
+
+
+plugins: []
+
+
+collections: {}
+
+
+# Author meta used in various templates
+author:
+name: "Adewole Adewale"
+role: "Mobile & Web App Developer"
+location: "Abuja, Nigeria"
+email: "sundayadewole1997@gmail.com"
+resume: "/assets/files/resume.pdf"
+github: "adewoleadewale"
+twitter: "adewoleadewaleg"
