@@ -3,6 +3,7 @@
 /index.md
 /_layouts/default.html
 /_layouts/home.html
+/_layouts/project.html
 /_includes/header.html
 /_includes/footer.html
 /_includes/profile-card.html
@@ -10,4 +11,11 @@
 /assets/js/main.js
 /assets/img/profile-placeholder.jpg
 /projects.md
+/projects/payquick.md
+/projects/farmconnect.md
 /contact.md
+/resume.md
+/tailwind.config.js
+/package.json
+/postcss.config.js
+/.github/workflows/build.yml
