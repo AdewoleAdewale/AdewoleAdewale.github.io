@@ -1,0 +1,12 @@
+{
+"name": "jekyll-ng-mobile-dev-profile",
+"version": "1.0.0",
+"scripts": {
+"build:css": "npx tailwindcss -i ./assets/css/styles.css -o ./assets/css/output.css --minify"
+},
+"devDependencies": {
+"tailwindcss": "^3.4.0",
+"postcss": "^8.4.0",
+"autoprefixer": "^10.4.0"
+}
+}
