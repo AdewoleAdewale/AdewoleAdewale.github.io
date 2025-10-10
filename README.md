@@ -1,4 +1,3 @@
-# AdewoleAdewale.github.io
 /_config.yml
 /README.md
 /index.md
