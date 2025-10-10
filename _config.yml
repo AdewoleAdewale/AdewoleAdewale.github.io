@@ -1,7 +1,7 @@
 title: "Adewole Adewale — Mobile Developer"
 description: "Xamarin, .NET, MAUI developer building mobile and web apps from Lagos, Nigeria."
 baseurl: "" # change if hosted in a subpath
-url: "https://your-username.github.io" # change to your GitHub Pages URL
+url: "https://adewoleadewale.github.io" # change to your GitHub Pages URL
 theme: minima
 markdown: kramdown
 permalink: /:title/
@@ -20,5 +20,5 @@ role: "Mobile & Web App Developer"
 location: "Lagos, Nigeria"
 email: "youremail@example.com"
 resume: "/assets/files/resume.pdf"
-github: "your-username"
-twitter: "your-twitter"
+github: "adewoleadewale"
+twitter: "adewoleadewaleg"
